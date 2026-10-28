@@ -1,1 +1,1 @@
-everettexists-git.github.io/lattice-network/
+everettexists-git.github.io/lattice-network
